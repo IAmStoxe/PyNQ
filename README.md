@@ -56,12 +56,6 @@ result = self.queryable \
 
 If you can decipher this, you're either a genius or a masochist. Or both. 🤓
 
-## Get Started
-
-Are you ready to take your coding skills to the next level of insanity? Just `pip install pynq` and let the madness begin! But be warned: once you enter the world of PyNQ, there's no turning back. It's like Hotel California, but with more lambdas. 🏨
-
-So come on down and join the PyNQ community of mad scientists, code breakers, and gluttons for punishment. Your brain will thank you... or maybe it won't. Either way, it's gonna be a wild ride! 🎉
-
 Oh, and if you thought the code was mind-bending, just wait until you see the unit tests! We've got tests for days, covering every nook and cranny of PyNQ's intricate web of chaos. It's like a treasure hunt, but instead of treasure, you find more questions than answers. 💎
 
 ```python

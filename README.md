@@ -1,5 +1,7 @@
 # PyNQ: Python LINQ for the Masochistic and Deranged
 
+[![PyNQ](https://github.com/IAmStoxe/PyNQ/actions/workflows/python-app.yml/badge.svg)](https://github.com/IAmStoxe/PyNQ/actions/workflows/python-app.yml)
+
 Attention all code junkies and complexity addicts! Are you tired of writing code that's readable, maintainable, and easy to understand? Do you crave the adrenaline rush of staring at a screen full of cryptic symbols and wondering what the hell you were thinking? Well, buckle up, buttercup, because PyNQ is here to satisfy all your wildest coding fantasies! 🎢
 
 ## Features
